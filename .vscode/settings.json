@@ -1,0 +1,7 @@
+{
+    "html.format.wrapLineLength": 800,
+    "editor.wordWrapColumn": 800,
+    "prettier.printWidth": 8000,
+    "prettier.proseWrap": "never",
+    "editor.wordWrap": "on"
+}
